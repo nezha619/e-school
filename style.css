@@ -1,0 +1,147 @@
+.bg{
+    Width: 100%;
+    /* Height: 576px; */
+    height: 576px;
+    background-color: rgba(0, 253, 177, 0.1);
+}
+.top-banner img{
+    width: 100%;
+}
+.top-banner h6{
+    color: red;
+}
+.green{
+    color: green;
+}
+.books-icon{
+    width: 10%;
+}
+.get-started-btn{
+Width: 153px;
+Height: 43px;
+Top: 470px;
+Left: 205px;
+border-radius: 33px;
+Padding: 12px, 36px, 12px, 36px;
+Gap: 10px;
+background-color: green;
+color: white;
+border: none;
+}
+.box{
+    background-color:#F8FFFB;
+    width: 270px;
+    height: 270px;
+    display: flex;
+    margin-top: 100px;
+    /* text-align:justify; */
+}
+.box img{
+    width: 68px;
+    height: 76px;
+}
+.text-1{
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    left: 120px;
+    top: 870px;
+    text-align: center;
+}
+.text-2{
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    left: 400px;
+    top: 870px;
+    text-align: center;
+}
+.text-3{
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    left: 685px;
+    top: 870px;
+    text-align: center;
+}
+.text-4{
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    left: 965px;
+    top: 870px;
+    text-align: center;
+}
+.border-box{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.online-courses{
+    margin-top: 100px;
+}
+.online-courses{
+    text-align: center;
+}
+.buy-course-btn{
+Width: 153px;
+Height: 43px;
+Top: 470px;
+Left: 205px;
+border-radius: 33px;
+Padding: 12px, 36px, 12px, 36px;
+Gap: 10px;
+background-color: green;
+color: white;
+border: none;
+}
+.card-footer img{
+    width: 18px;
+    height: 20px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.card{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px lightgrey;
+    text-align: start;
+}
+.testomonial{
+    text-align: center;
+    margin-top: 100px;
+}   
+.testomonial-content img{
+    width: 120px;
+    float: left;
+}
+.testomonial-content p{
+position: absolute;
+width: 580px;
+height: 90px;
+left: 450px;
+top: 1810px;
+text-align: justify;
+}
+.testomonial-content img{
+position: absolute;
+width: 120px;
+height: 120px;
+left: 300px;
+top: 1787px;
+}
+.more-details{
+    background-color: #282531;
+    position: absolute;
+    width: 100%;
+    height: 300px;
+    left: 0px;
+    top: 2013px;
+    color: white;
+}
+.about-us{
+    margin-top: 20px;
+    width: 100%;
+}
